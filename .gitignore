@@ -12,6 +12,9 @@
 # .project
 .project
 
+# .settings
+.settings
+
 # web application files
 /web-app/WEB-INF/classes
 
